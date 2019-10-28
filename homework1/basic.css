@@ -65,6 +65,13 @@ div.grid4 {
 	animation-iteration-count: infinite;
 }
 
+div.grid5 {
+	background:purple;
+}
+
+div.grid6 {
+	background:purple;
+}
 
 
 /* CSS transform standard syntax */
